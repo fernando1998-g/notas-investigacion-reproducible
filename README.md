@@ -31,7 +31,7 @@ archivos de datos suplementarios publicados en revistas científicas contenían 
 debido a los parámetros de configuración de Microsoft Excel (Ziemann et al., 2016).
 
 ![perro](https://ichef.bbci.co.uk/news/800/cpsprodpb/15665/production/_107435678_perro1.jpg)
-![Rimuru](https://static.wikia.nocookie.net/tensei-shitara-slime-datta-ken-es/images/5/54/17e4ed7a276951fca7ebd8c9527bd0b7.jpg/revision/latest?cb=20190424192858&path-prefix=es)
+![figura-1](ZiemannEtAlFig1.png)
 
 Figura 1. Resultados de la revisión sistemática de archivos Excel suplementarios. Fuente: (Ziemann et al., 2016).
 
