@@ -8,7 +8,7 @@ El término **reproductibilidad** (o reproducibility, en inglés) se refiere a l
 investigación, de manera que sus resultados puedan ser obtenidos por otros al seguir la misma metodología.  
 Usualmente, la reproductibilidad requiere que los datos y el código de programación utilizados en la investigación estén  
 disponibles para quienes deseen usarlos (Bezjak et al., 2018). Este concepto está relacionado con el de **replicabilidad** (o  
-replicability, en inglés), el cual se refiere a la posibilidad de obtener resultados consistentes (no idénticos) al replicar un  
+_replicability_, en inglés), el cual se refiere a la posibilidad de obtener resultados consistentes (no idénticos) al replicar un  
 estudio con un conjunto distinto de datos, pero siguiendo el mismo diseño experimental. Estos conceptos son elementos  
 centrales de la investigación empírica.  
 
@@ -35,11 +35,11 @@ Figura 1. Resultados de la revisión sistemática de archivos Excel suplementari
 ### Bibliografía
 
 Bezjak, S., Clyburne-Sherin, A., Conzett, P., Fernandes, P., Görögh, E., Helbig, K., Kramer, B., Labastida, I., Niemeyer, K.,  
-Psomopoulos, F., Ross-Hellauer, T., Schneider, R., Tennant, J., Verbakel, E., Brinken, H., & Heller, L. (2018). Open  
-Science Training Handbook. Zenodo. https://doi.org/10.5281/ZENODO.1212496
+Psomopoulos, F., Ross-Hellauer, T., Schneider, R., Tennant, J., Verbakel, E., Brinken, H., & Heller, L. (2018). _Open  
+Science Training Handbook._ Zenodo. https://doi.org/10.5281/ZENODO.1212496
 
-Claerbout, J. F. (1992). Earth Soundings Analysis: Processing Versus Inversion. Blackwell Science Inc.
+Claerbout, J. F. (1992). _Earth Soundings Analysis: Processing Versus Inversion._ Blackwell Science Inc.
 
-Ziemann, M., Eren, Y., & El-Osta, A. (2016). Gene name errors are widespread in the scientific literature. Genome Biology,  
+Ziemann, M., Eren, Y., & El-Osta, A. (2016). _Gene name errors are widespread in the scientific literature._ Genome Biology,  
 17(1), 177. https://doi.org/10.1186/s13059-016-1044-7
-© 2021 GitHub, Inc.
+
