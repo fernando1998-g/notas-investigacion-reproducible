@@ -30,7 +30,6 @@ Así, por ejemplo, como se muestra en la figura 1, Mark Ziemann encontró en 201
 archivos de datos suplementarios publicados en revistas científicas contenían errores en los nombres de los genes,  
 debido a los parámetros de configuración de Microsoft Excel (Ziemann et al., 2016).
 
-![perro](https://ichef.bbci.co.uk/news/800/cpsprodpb/15665/production/_107435678_perro1.jpg)
 ![figura-1](ZiemannEtAlFig1.png)
 
 Figura 1. Resultados de la revisión sistemática de archivos Excel suplementarios. Fuente: (Ziemann et al., 2016).
