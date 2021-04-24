@@ -23,7 +23,7 @@ propios resultados. Por esta razón, muchas personas ignoran la mayor parte de l
 >1992)
 
 Con el fin de resolver esta problemática, diferentes organizaciones, como el Comité Internacional de Publicaciones de  
-Medicina o la Administración de Alimentos y Medicamentos de Estados Unidos [FDA] (https://www.fda.gov/), empezaron a publicar lineamientos  
+Medicina o la Administración de Alimentos y Medicamentos de Estados Unidos [FDA](https://www.fda.gov/), empezaron a publicar lineamientos  
 para atacar los problemas derivados de una inadecuada documentación de los experimentos basados en ensayos  
 aleatorios. De manera simultánea, se le dio más importancia a la calidad de los datos utilizados en las investigaciones.  
 Así, por ejemplo, como se muestra en la figura 1, Mark Ziemann encontró en 2016 que un 20% de los artículos con  
