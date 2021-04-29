@@ -2,7 +2,7 @@
 Tarea 01 Markdown
 
 # Notas sobre investigación reproducible y análisis de datos
-# Reproductibilidad
+## Reproductibilidad
 
 El término **reproductibilidad** (o *reproducibility*, en inglés) se refiere a la capacidad de reproducir un trabajo de   
 investigación, de manera que sus resultados puedan ser obtenidos por otros al seguir la misma metodología.  
@@ -12,7 +12,7 @@ _replicability_, en inglés), el cual se refiere a la posibilidad de obtener res
 estudio con un conjunto distinto de datos, pero siguiendo el mismo diseño experimental. Estos conceptos son elementos  
 centrales de la investigación empírica.  
 
-#### Importancia de la reproductibilidad
+### Importancia de la reproductibilidad
 
 ¿Por qué es importante la investigación reproducible? Para encontrar una respuesta, podemos estudiar sus inicios. A  
 principios de la década de 1990, un geofísico estadounidense llamado John Claerbout realizó la siguiente afirmación:  
